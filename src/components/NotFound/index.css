@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.not-found-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+.not-found-image {
+  height: 200px;
+}
+
+.dark-theme-not-found-main-container {
+  background-color: #000000;
+  color: #ffffff;
+}
